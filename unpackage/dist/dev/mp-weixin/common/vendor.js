@@ -8648,7 +8648,7 @@ function resolveLocaleChain(locale) {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-throw new Error("Module build failed (from ./node_modules/@dcloudio/webpack-uni-pages-loader/lib/index.js):\nError: uni-app-compiler: Unexpected token \n in JSON at position 2427\n    at parseJson (E:\\HBuilderX\\plugins\\uniapp-cli\\node_modules\\@dcloudio\\uni-cli-shared\\lib\\json.js:21:13)\n    at parseManifestJson (E:\\HBuilderX\\plugins\\uniapp-cli\\node_modules\\@dcloudio\\uni-cli-shared\\lib\\manifest.js:32:10)\n    at Object.<anonymous> (E:\\HBuilderX\\plugins\\uniapp-cli\\node_modules\\@dcloudio\\webpack-uni-pages-loader\\lib\\index-new.js:65:24)\n    at Object.<anonymous> (E:\\HBuilderX\\plugins\\uniapp-cli\\node_modules\\@dcloudio\\webpack-uni-pages-loader\\lib\\index.js:57:35)");
+
 
 /***/ }),
 /* 6 */,
